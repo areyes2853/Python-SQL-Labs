@@ -1,4 +1,5 @@
 import psycopg2
+
 connection = None
 cur = None
 conn = None # Initialize conn here as well, potentially used in finally
